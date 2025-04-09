@@ -33,7 +33,7 @@
 
 ## 📫 Reach me
 
-- ✉️ pedrozibordi@gmail.com  
+- ✉️ pedrozibordi@hotmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedrozibordi)  
 - 🧠 GitHub: [@PedroZibordi](https://github.com/PedroZibordi)
 
