@@ -1,9 +1,3 @@
-Got it! I'll update your GitHub profile README.md to reflect your new learnings and the significant project experience gained with the Asset Hub, specifically highlighting the Next.js, TypeScript, Tailwind CSS, and the debugging process.
-
-Here's the updated README.md for your profile:
-
-Markdown
-
 # 👋 Hi there! I'm Pedro Zibordi
 
 🎯 Software Engineering student passionate about back-end development and web technologies.
