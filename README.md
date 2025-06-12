@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Pedro Zibordi
 
-🎯 Software Engineering student passionate about back-end development and web technologies.
+🎯 Software Engineering student passionate about web development and web technologies.
 🚀 Currently seeking opportunities to grow professionally and contribute to awesome tech projects.
 
 ---
