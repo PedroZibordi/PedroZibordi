@@ -11,25 +11,10 @@
 - 🐘 PostgreSQL
 - ☕ Java (OOP, data structures, and Spring Boot soon)
 - 💻 Git & GitHub (version control)
-- 📊 Business Intelligence basics with Power BI
+- 📊 Business Intelligence Advanced with Power BI
 - **🌐 Next.js (App Router):** Gaining hands-on experience building full-stack applications with SSR, SSG, and API Routes.
 - **⚛️ TypeScript & React.js:** Solidifying skills in building robust and scalable frontend interfaces.
 - **🎨 Tailwind CSS:** Efficiently styling modern web applications.
-- **🐛 Debugging Complex Issues:** Successfully tackled a "JavaScript Heap Out of Memory" error in a Next.js application by identifying and resolving an infinite re-rendering loop within a React Context.
-
----
-
-## 📁 Featured Projects
-
-- **Asset Hub (Next.js, TypeScript, Tailwind CSS, Prisma, PostgreSQL):**
-    * A modern digital asset marketplace demonstrating full-stack development with Next.js App Router.
-    * Features include dynamic asset listing, detailed asset pages, and robust user authentication.
-    * **Key Learning:** Deep dive into Next.js architecture, API route management, React Context optimization, and resolving complex memory leaks due to improper `useEffect`/`useCallback` dependencies.
-    * *(You can link this to the Asset Hub repository once it's public!)*
-
-- [CRUD API with Flask + PostgreSQL](https://github.com/PedroZibordi/flask-crud-api): RESTful API with database integration and simple frontend (HTML/CSS/JS)
-
-(More projects coming soon!)
 
 ---
 
