@@ -7,11 +7,12 @@
 
 ## 🧠 Currently learning & Recent Accomplishments
 
-- 🐍 Python (focused on APIs with Flask)
+- 🐍 Python (focused on APIs with Flask, and FastAPI)
 - 🐘 PostgreSQL
+- Golang
 - ☕ Java (OOP, data structures, and Spring Boot soon)
 - 💻 Git & GitHub (version control)
-- 📊 Business Intelligence Advanced with Power BI
+- 📊 Business Intelligence Advanced with Power BI and SQL Server & SQL Anywhere
 - **🌐 Next.js (App Router):** Gaining hands-on experience building full-stack applications with SSR, SSG, and API Routes.
 - **⚛️ TypeScript & React.js:** Solidifying skills in building robust and scalable frontend interfaces.
 - **🎨 Tailwind CSS:** Efficiently styling modern web applications.
