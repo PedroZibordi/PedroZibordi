@@ -10,8 +10,6 @@ Currently seeking opportunities to grow professionally and contribute to awesome
 - Python (focused on APIs with Flask, and FastAPI)
 - PostgreSQL
 - Golang
-- Java (OOP, data structures, and Spring Boot soon)
-- Git & GitHub (version control)
 - Business Intelligence Advanced with Power BI and SQL Server & SQL Anywhere
 - Next.js (App Router): Gaining hands-on experience building full-stack applications with SSR, SSG, and API Routes.
 - TypeScript & React.js: Solidifying skills in building robust and scalable frontend interfaces.
@@ -21,9 +19,8 @@ Currently seeking opportunities to grow professionally and contribute to awesome
 
 ## 💬 About me
 
--  Graduated in Civil Engineering, now transitioning into Software Engineering
--  Background in quality assurance, project management, field engineering, and technical specification
--  My goal is to merge my technical background with the power of code
+-  Graduated in Civil Engineering, now graduating into Software Engineering
+-  Background in quality assurance, project management, field engineering, and technical specifications, with hands-on experience in software development, data analytics, and AI-driven automation.
 
 ---
 
