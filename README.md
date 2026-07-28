@@ -30,11 +30,10 @@
 **Infra & Tooling**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
 **AI-assisted workflow**
-I develop with an **agentic, AI-augmented workflow** — using tools like **Claude Code** with specialized agents (tech-lead, backend, database, frontend, AI, QA) to move faster without sacrificing architecture quality or code review discipline.
+I develop with an **agentic, AI-augmented workflow** using tools like **Claude Code** with specialized agents (tech-lead, backend, database, frontend, AI, QA) to move faster without sacrificing architecture quality or code review discipline.
 
 ---
 
@@ -44,16 +43,16 @@ I'm part of the **development team at Nimo Energia**, working across two fronts 
 
 **Operations automation.** I build and maintain the systems that automate the company's operational processes end to end — across every sector of the operation. This includes being **responsible for the core system that handles roughly R$250 million in transactions per month**, turning manual, fragmented workflows into reliable, automated processes. On this front I work full-stack: **Go (Fiber)** on the backend, **Next.js / React / TypeScript** on the frontend, and **PostgreSQL** for data.
 
-**Business Intelligence.** I also **own the BI area**, designing and developing high-performance indicators that power **market intelligence and data-driven decision-making** for the business. I work with Power BI, SQL Server, and SQL Anywhere to turn raw operational data into KPIs that leadership actually acts on.
+**Business Intelligence.** I also **own the BI area**, but instead of off-the-shelf tools, I build the **dashboards from scratch as full-stack applications**, faster, more optimized, and tailored exactly to what the business needs. I design and develop high-performance indicators that power **market intelligence and data-driven decision-making**, turning raw operational data into KPIs that leadership actually acts on.
 
-I bring an engineer's mindset to software: I like systems where the **numbers and logic are deterministic and testable**, and the AI layer is used for what it's actually good at — reasoning and communication, not doing math it can't be trusted with. That same rigor carries over from my Civil Engineering background: process, reliability, and getting the details right.
+I bring an engineer's mindset to software: I like systems where the **numbers and logic are deterministic and testable**, and the AI layer is used for what it's actually good at reasoning and communication, not doing math it can't be trusted with. That same rigor carries over from my Civil Engineering background: process, reliability, and getting the details right.
 
 ---
 
 ## Featured Projects
 
-### AI scheduling agent por clinics
-A multi-tenant WhatsApp AI assistant that handles appointment booking, rescheduling, and cancellations for dental clinics.
+### AI scheduling agent for clinics
+A multi-tenant WhatsApp AI assistant that handles appointment booking, rescheduling, and cancellations for clinics.
 - **Stack:** Python · FastAPI · PostgreSQL + pgvector · Redis · Evolution API · OpenAI
 - Google Calendar sync with double-booking locks, D-1 reminders with confirmation, post-appointment NPS, per-tenant FAQ, and a human-override fallback for edge cases
 - Architected around a core principle: **dates and numbers are the code's responsibility, conversation is the LLM's**
@@ -66,10 +65,10 @@ A professional site for an artisanal confectionery business, built from a full b
 
 ## Currently learning & exploring
 
-- **Go** — deepening backend and concurrency patterns
-- **AI engineering** — RAG pipelines, local LLMs, and grounding techniques for reliable outputs
-- **Advanced Business Intelligence** — Power BI, SQL Server & SQL Anywhere
-- **Next.js App Router** — SSR, SSG, and API Routes for full-stack apps
+- **Go**: deepening backend and concurrency patterns
+- **AI engineering**: RAG pipelines, local LLMs, and grounding techniques for reliable outputs
+- **Data-intensive full-stack**: building custom, optimized BI dashboards and KPI systems
+- **Next.js App Router**: SSR, SSG, and API Routes for full-stack apps
 
 ---
 
